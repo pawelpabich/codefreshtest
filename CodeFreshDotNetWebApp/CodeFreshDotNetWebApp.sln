@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFreshDotNetWebApp", "CodeFreshDotNetWebApp\CodeFreshDotNetWebApp.csproj", "{D2E47746-7B00-4F92-A53D-B822C2557168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E47746-7B00-4F92-A53D-B822C2557168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E47746-7B00-4F92-A53D-B822C2557168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E47746-7B00-4F92-A53D-B822C2557168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E47746-7B00-4F92-A53D-B822C2557168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
